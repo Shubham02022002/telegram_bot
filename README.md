@@ -1,7 +1,5 @@
 # Algo_bot
 
-# Algo_bot
-
 Welcome to Algo_bot, your friendly companion for coding algorithms on Telegram!
 
 ## Description
